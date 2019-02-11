@@ -1,0 +1,21 @@
+{
+  "name": "superhero",
+  "version": "1.0.0",
+  "description": "To find the Superhero name from the distress code",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "superhero",
+    "distress",
+    "nodejs"
+  ],
+  "author": "Aditya Vyas",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "jest": "^24.0.0",
+    "live-server": "^1.2.1"
+  }
+}
