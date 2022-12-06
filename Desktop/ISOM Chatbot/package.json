@@ -11,7 +11,7 @@
     "connect-multiparty": "2.0.x",
     "ejs": "2.4.x",
     "errorhandler": "1.4.x",
-    "express": "4.13.x",
+    "express": "4.17.x",
     "method-override": "2.3.x",
     "morgan": "1.6.x",
     "request": "^2.67.0",
